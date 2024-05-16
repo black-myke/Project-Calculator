@@ -9,6 +9,7 @@ body {
 }
 
 h1 {
+    text-align: center;
     text-shadow: 6px 1px 13px rgba(43,241,0,1);
     font-size: 30px;
 }
